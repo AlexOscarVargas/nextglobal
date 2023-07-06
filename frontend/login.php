@@ -79,7 +79,7 @@ include_once '../backend/php/login.php'
       <div class="left">
         <section class="copy">
           <h1>Next Global</h1>
-          <p>DESARROLLO DE UN SISTEMA WEB PARA LA GESTIÓN DE RIESGOS DE SEGURIDAD DE LOS ACTIVOS DE LA INFORMACIÓN</p>
+          <p>DESARROLLO DE UN SISTEMA WEB PARA LA GESTIÓN DE VENTAS Y COMPRAS DE LOS ACTIVOS INFORMÁTICOS</p>
           
         </section>
       </div>
